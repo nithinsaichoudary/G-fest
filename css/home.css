@@ -6,21 +6,20 @@ body {
     background-color: #000000;
 }
 .logo{
-    color: #f5f5f5;
     float: left;
     padding: 10px;
-    font-size: 30px;
-    font-weight: bolder;
+    width: 200px;
 }
 .navbar {
-    background-color: transparent;
-    overflow: hidden;
-    position: fixed;
-    width: 100%;
-    top: 30px;
-    left: 30px;
-    display: flex;
-    align-items: center;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  top: 30px;
+  left: 30px;
+  display: flex;
+  align-items: center;
+  
+
 
 }
 .menu-elements{
